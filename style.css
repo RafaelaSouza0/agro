@@ -64,7 +64,7 @@ nav a:hover {
 }
 
 .produtos li:hover h2 {
-	font-size: 34px;
+	font-size: 30px;
 }
 
 .produtos h2 {
@@ -108,7 +108,7 @@ form label, form legend {
 	display: block;
 	margin: 0 0 20px;
 	padding: 10px 25px;
-	width: 50%;
+	width: 20%;
 }
 
 .checkbox {
@@ -206,7 +206,7 @@ td,th {
 }
 
 .lista-beneficios {
-	width: 40%;
+	width: 20%;
 	display: inline-block;
 	vertical-align: top;
 }
@@ -220,7 +220,7 @@ td,th {
 }
 
 .imagem-beneficios {
-	width: 60% ;
+	width: 40% ;
 }
 
 .video {
